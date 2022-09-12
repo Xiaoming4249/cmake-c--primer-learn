@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/Code_project/c++/cmake-c++primer-learn/build",
+  "command": "D:\\Programs\\study\\Qt\\Qt5.9.9\\Tools\\mingw530_32\\bin\\i686-w64-mingw32-g++.exe   -g -o CMakeFiles\\cppprimer.dir\\main.cpp.obj -c D:\\Code_project\\c++\\cmake-c++primer-learn\\main.cpp",
+  "file": "D:/Code_project/c++/cmake-c++primer-learn/main.cpp"
+}
+]

@@ -1,0 +1,3 @@
+D:\Programs\tools\cmake\bin\cmake.exe -E rm -f CMakeFiles\cppprimer.dir/objects.a
+D:\Programs\study\Qt\Qt5.9.9\Tools\mingw530_32\bin\ar.exe qc CMakeFiles\cppprimer.dir/objects.a @CMakeFiles\cppprimer.dir\objects1.rsp
+D:\Programs\study\Qt\Qt5.9.9\Tools\mingw530_32\bin\i686-w64-mingw32-g++.exe -g -Wl,--whole-archive CMakeFiles\cppprimer.dir/objects.a -Wl,--no-whole-archive -o cppprimer.exe -Wl,--out-implib,libcppprimer.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cppprimer.dir\linklibs.rsp
