@@ -4,6 +4,7 @@ using namespace std;
 int add(int a, int b);
 int jian(int a, int b);
 int multip(int a, int b);
+int chufa(int a, int b);
 //using pf = int(*)(int, int);
 
 int main(int, char**) {
@@ -26,4 +27,8 @@ int jian(int a, int b){
 
 int multip(int a, int b){
     return a * b;
+}
+
+int chufa(int a, int b){
+    return a/b;
 }
